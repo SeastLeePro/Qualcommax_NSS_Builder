@@ -58,7 +58,7 @@ The Qualcomm IPQ807x SoC contains dedicated **Network Subsystem (NSS)** cores de
 
 | Device | SoC | Status | Config |
 |---|---|---|---|
-| **Xiaomi AX3600** | Qualcomm IPQ8071A | Actively supported | [`ax3600.config`](ax3600.config) |
+| **aliyun AP8200** | Qualcomm IPQ8071A | Actively supported | [`ap8220.config`](ap8220.config) |
 
 > Other IPQ807x devices (AX9000, Dynalink DL-WRX36, etc.) can be added by contributing a config file.
 
