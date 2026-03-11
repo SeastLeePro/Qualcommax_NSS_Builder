@@ -200,19 +200,6 @@ Builds run automatically every **2 hours** and only trigger when upstream commit
 
 ---
 
-# Project Structure
-.
-├── .github/workflows
-│ └── build.yaml
-├── ap8220.config
-├── files
-│ └── default configuration files
-├── patches
-│ └── optional patches
-└── README.md
-
----
-
 # FAQ
 
 ## What is NSS?
